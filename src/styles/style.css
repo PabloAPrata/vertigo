@@ -92,3 +92,19 @@ main {
 .login a:hover {
     text-decoration: underline;
 }
+
+.login button {
+    margin-top: 1rem;
+    padding-block: 1rem;
+    width: 100%;
+    background-color: var(--purple);
+    border: none;
+    border-radius: 0.25rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.login button:hover {
+    
+}
